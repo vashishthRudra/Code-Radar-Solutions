@@ -1,6 +1,6 @@
 #include <stdio.h>
 int clear(int a,int b){
-    int c =~(1 << n);
+    int c =~(1 << b);
     return a & c;
 }
 int main(){
